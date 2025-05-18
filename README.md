@@ -10,7 +10,7 @@ Hi! Welcome to my data analysis portfolio. I'm a Business Analytics major at the
 - Uses movie data to compare genres, gross earnings, IMDb and MPAA ratings, and release trends  
 - Includes various data collection/wrangling methods, cleaning, and visual exploration
 
-## 🧰 Tools & Skills Used
+#### 🧰 Tools & Skills Used
 - **Languages:** Python (Pandas, NumPy, re, requests, BeautifulSoup, Matplotlib, Seaborn)
 - **IDE's:** Jupyter Notebooks, VS Code
 - **Other:** Data wrangling, EDA, regression, groupby analysis, visualization
