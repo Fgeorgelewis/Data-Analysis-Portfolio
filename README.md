@@ -23,6 +23,6 @@ Coming soon: Exploring what and how the pop music industry is raising awareness 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/frederikgeorgelewis/) 
 
-Or reach out via email: frederikgeorge@gmail.com
+Or reach out via email: contact.georgelewis@gmail.com
 
 
