@@ -16,6 +16,24 @@ Hi! Welcome to my data analysis portfolio. I'm a Business Analytics major at the
 - **Other:** Data wrangling, EDA, regression, groupby analysis, visualization
 
 ---
+
+### 📂 [Multi Account Web Scraper](https://github.com/Fgeorgelewis/Multi-Account-Web-Scraper)
+**Question:** How can we build a web scraper that logs into a website using different accounts and saves both the login info and the scraped data into a database?
+- Logs into a target website using rotating credentials pulled from a local SQL database
+- Scrapes protected content using Playwright with async functionality
+- Securely stores login details and scraped data in separate, relational tables
+- Uses encryption (Fernet) to safely store passwords
+- Automates data collection using Python’s scheduling and timing libraries
+- Designed for modularity, scalability, and stealth scraping patterns
+
+#### 🧰 Tools & Skills Used
+- **Languages:** Python, SQL
+- **Data Storage:** pandas, sqlite3
+- **Encyrption and Security:**: Cryptography Fernet
+- **Web Scraping**: BeautifulSoup (lxml parser), Playwright (async version)
+- **Supporting Libaries**: os, datetime, time, asyncio, random
+
+---
 ### 🌎 Spreading Climate Change Awareness Through Pop Music
 Coming soon: Exploring what and how the pop music industry is raising awareness about climate change
 
