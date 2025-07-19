@@ -5,7 +5,7 @@ Hi! Welcome to my data analysis portfolio. I'm a Business Analytics major at the
 ---
 ## 🔍 Projects
 
-### 🎵 [Movie Soundtrack Analysis](https://github.com/Fgeorgelewis/Movie-Soundtrack-Analysis)
+### 🎵 [Movie Soundtrack Analysis](https://github.com/fghlewis/Movie-Soundtrack-Analysis)
 **Question:** How do movies with rap soundtracks perform from those without?  
 - Uses movie data to compare genres, gross earnings, IMDb and MPAA ratings, and release trends  
 - Includes various data collection/wrangling methods, cleaning, and visual exploration
@@ -17,7 +17,7 @@ Hi! Welcome to my data analysis portfolio. I'm a Business Analytics major at the
 
 ---
 
-### 📂 [Multi Account Web Scraper](https://github.com/Fgeorgelewis/Multi-Account-Web-Scraper)
+### 📂 [Multi Account Web Scraper](https://github.com/fghlewis/Multi-Account-Web-Scraper)
 **Question:** How can we build a web scraper that logs into a website using different accounts and saves both the login info and the scraped data into a database?
 - Logs into a target website using rotating credentials pulled from a local SQL database
 - Scrapes protected content using Playwright with async functionality
